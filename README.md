@@ -1,4 +1,4 @@
-
+https://travis-ci.org/mathiasbk1/travisGettingStarted.svg?branch=master
 
 Ultra simple Java Project meant for a Travis introduction
 
